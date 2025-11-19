@@ -1,0 +1,1 @@
+The python script allows to visualiza the senitivity analysis results in a Dashboard form. Made using python and streamlit
