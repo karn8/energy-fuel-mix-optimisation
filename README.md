@@ -10,7 +10,9 @@ This project builds a complete optimisation model for selecting the most profita
 
 Using Excel Solver and scenario modelling, the project analyses how the optimal strategy changes under different carbon prices and evaluates whether the plant should invest in a Flue Gas Desulphurisation (FGD) system.
 
-📘 Key Features
+Key Features
+------------
+
 -> Linear Programming Model
 
 Monthly fuel mix optimisation across Stockpile, Russian, and Scottish coal
