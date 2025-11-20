@@ -1,7 +1,7 @@
 Energy Fuel Mix Optimisation
 
 A full optimisation and emissions analysis project for a coal-based power plant, combining linear programming, environmental economics, and strategic decision modelling. This project explores how fuel choices, CO₂ pricing, and SO₂ control technologies impact profitability, compliance, and long-term operational strategy.
-*Based on a Data from 2101
+*Based on a Data from 2010
 
 Project Overview
 ----------------
